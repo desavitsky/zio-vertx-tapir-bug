@@ -1,0 +1,11 @@
+.bsp
+.bloop
+.metals
+.idea
+.vscode
+project/project
+target/
+**/main/resources/local.conf
+**/main/resources/logback-test.xml
+.DS_Store
+.sbt-cache
